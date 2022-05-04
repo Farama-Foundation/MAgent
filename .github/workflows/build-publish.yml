@@ -47,9 +47,6 @@ jobs:
             platform: macosx_x86_64
 
           - os: macos-latest
-            python: 37
-            platform: macosx_arm64
-          - os: macos-latest
             python: 38
             platform: macosx_arm64
           - os: macos-latest
